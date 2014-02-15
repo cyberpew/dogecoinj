@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.google</groupId>
-  <artifactId>litecoinj-parent</artifactId>
+  <artifactId>dogecoinj-parent</artifactId>
   <version>0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
@@ -13,7 +13,7 @@
     <module>tools</module>
   </modules>
 
-  <name>litecoinj Parent</name>
+  <name>dogecoinj Parent</name>
   <description>Provides the common configuration for the LitecoinJ modules</description>
   <url>http://code.google.com/p/litecoinj</url>
 
